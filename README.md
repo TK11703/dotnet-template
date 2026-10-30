@@ -1,2 +1,2 @@
 # dotnet-template
-This repository will be a skeleton template to get a new repository started with essential structure.
+A skeleton template for bootstrapping new .NET repositories with a standardized project structure, development workflows, CI/CD foundations, and essential engineering practices already in place.
